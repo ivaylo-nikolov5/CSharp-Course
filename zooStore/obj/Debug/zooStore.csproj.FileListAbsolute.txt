@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\bin\Debug\zooStore.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\bin\Debug\zooStore.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\bin\Debug\zooStore.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\obj\Debug\zooStore.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\obj\Debug\zooStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\obj\Debug\zooStore.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\obj\Debug\zooStore.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\zooStore\obj\Debug\zooStore.pdb

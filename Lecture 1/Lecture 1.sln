@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenation", "Concatenat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCreation", "..\ProjectCreation\ProjectCreation.csproj", "{A9D8A11F-630C-4EE6-9AE6-909A23D295E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zooStore", "..\zooStore\zooStore.csproj", "{3904BE03-8390-474D-BE6C-B017A22EDE31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A9D8A11F-630C-4EE6-9AE6-909A23D295E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9D8A11F-630C-4EE6-9AE6-909A23D295E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9D8A11F-630C-4EE6-9AE6-909A23D295E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3904BE03-8390-474D-BE6C-B017A22EDE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3904BE03-8390-474D-BE6C-B017A22EDE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3904BE03-8390-474D-BE6C-B017A22EDE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3904BE03-8390-474D-BE6C-B017A22EDE31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
