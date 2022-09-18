@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCreation", "..\Proje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zooStore", "..\zooStore\zooStore.csproj", "{3904BE03-8390-474D-BE6C-B017A22EDE31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yardGreening", "..\yardGreening\yardGreening.csproj", "{1E0063C6-201B-42C2-88EF-CF4AB1A3162C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3904BE03-8390-474D-BE6C-B017A22EDE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3904BE03-8390-474D-BE6C-B017A22EDE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3904BE03-8390-474D-BE6C-B017A22EDE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0063C6-201B-42C2-88EF-CF4AB1A3162C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0063C6-201B-42C2-88EF-CF4AB1A3162C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0063C6-201B-42C2-88EF-CF4AB1A3162C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0063C6-201B-42C2-88EF-CF4AB1A3162C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

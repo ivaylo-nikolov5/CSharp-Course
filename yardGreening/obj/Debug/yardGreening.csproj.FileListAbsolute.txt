@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\obj\Debug\yardGreening.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\obj\Debug\yardGreening.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\obj\Debug\yardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\bin\Debug\yardGreening.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\bin\Debug\yardGreening.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\bin\Debug\yardGreening.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\obj\Debug\yardGreening.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\yardGreening\obj\Debug\yardGreening.pdb
