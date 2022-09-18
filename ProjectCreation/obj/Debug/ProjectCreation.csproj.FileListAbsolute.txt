@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\bin\Debug\ProjectCreation.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\bin\Debug\ProjectCreation.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\bin\Debug\ProjectCreation.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\obj\Debug\ProjectCreation.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\obj\Debug\ProjectCreation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\obj\Debug\ProjectCreation.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\obj\Debug\ProjectCreation.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\ProjectCreation\obj\Debug\ProjectCreation.pdb
