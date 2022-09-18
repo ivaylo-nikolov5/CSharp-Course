@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\obj\Debug\CSharp-Basics.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\obj\Debug\CSharp-Basics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\obj\Debug\CSharp-Basics.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\obj\Debug\Lecture 1.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\obj\Debug\Lecture 1.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\bin\Debug\Lecture 1.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\bin\Debug\Lecture 1.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Lecture 1\Lecture 1\bin\Debug\Lecture 1.pdb
