@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\bin\Debug\radiansToCelsius.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\bin\Debug\radiansToCelsius.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\bin\Debug\radiansToCelsius.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\obj\Debug\radiansToCelsius.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\obj\Debug\radiansToCelsius.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\obj\Debug\radiansToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\obj\Debug\radiansToCelsius.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\radiansToCelsius\obj\Debug\radiansToCelsius.pdb
