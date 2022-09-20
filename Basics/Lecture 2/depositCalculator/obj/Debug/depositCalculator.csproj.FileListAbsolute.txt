@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\bin\Debug\depositCalculator.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\bin\Debug\depositCalculator.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\bin\Debug\depositCalculator.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\obj\Debug\depositCalculator.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\obj\Debug\depositCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\obj\Debug\depositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\obj\Debug\depositCalculator.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\depositCalculator\obj\Debug\depositCalculator.pdb
