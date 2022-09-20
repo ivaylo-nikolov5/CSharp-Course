@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\bin\Debug\foodDelivery.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\bin\Debug\foodDelivery.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\bin\Debug\foodDelivery.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\obj\Debug\foodDelivery.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\obj\Debug\foodDelivery.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\obj\Debug\foodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\obj\Debug\foodDelivery.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\foodDelivery\obj\Debug\foodDelivery.pdb
