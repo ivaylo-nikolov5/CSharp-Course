@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repainting", "..\repainting
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodDelivery", "..\foodDelivery\foodDelivery.csproj", "{8E3129C8-2826-4195-B9C4-A417F4A0EAF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basketballEquipment", "..\basketballEquipment\basketballEquipment.csproj", "{725CA6B1-55DC-4C79-8843-77F77F1B2485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8E3129C8-2826-4195-B9C4-A417F4A0EAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3129C8-2826-4195-B9C4-A417F4A0EAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3129C8-2826-4195-B9C4-A417F4A0EAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725CA6B1-55DC-4C79-8843-77F77F1B2485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725CA6B1-55DC-4C79-8843-77F77F1B2485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725CA6B1-55DC-4C79-8843-77F77F1B2485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725CA6B1-55DC-4C79-8843-77F77F1B2485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\bin\Debug\basketballEquipment.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\bin\Debug\basketballEquipment.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\bin\Debug\basketballEquipment.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\obj\Debug\basketballEquipment.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\obj\Debug\basketballEquipment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\obj\Debug\basketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\obj\Debug\basketballEquipment.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\basketballEquipment\obj\Debug\basketballEquipment.pdb
