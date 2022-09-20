@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depositCalculator", "..\dep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vacationBookList", "..\vacationBookList\vacationBookList.csproj", "{89445478-8529-4AEB-A619-24F2AEED85FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolMaterials", "..\schoolMaterials\schoolMaterials.csproj", "{BD33F0A2-7350-44AA-8939-E814371B96FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{89445478-8529-4AEB-A619-24F2AEED85FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89445478-8529-4AEB-A619-24F2AEED85FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89445478-8529-4AEB-A619-24F2AEED85FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD33F0A2-7350-44AA-8939-E814371B96FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD33F0A2-7350-44AA-8939-E814371B96FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD33F0A2-7350-44AA-8939-E814371B96FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD33F0A2-7350-44AA-8939-E814371B96FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

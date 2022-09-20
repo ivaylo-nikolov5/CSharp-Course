@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\bin\Debug\schoolMaterials.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\bin\Debug\schoolMaterials.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\bin\Debug\schoolMaterials.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\obj\Debug\schoolMaterials.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\obj\Debug\schoolMaterials.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\obj\Debug\schoolMaterials.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\obj\Debug\schoolMaterials.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\schoolMaterials\obj\Debug\schoolMaterials.pdb
