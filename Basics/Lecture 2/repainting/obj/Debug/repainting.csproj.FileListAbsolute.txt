@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\bin\Debug\repainting.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\bin\Debug\repainting.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\bin\Debug\repainting.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\obj\Debug\repainting.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\obj\Debug\repainting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\obj\Debug\repainting.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\obj\Debug\repainting.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\repainting\obj\Debug\repainting.pdb
