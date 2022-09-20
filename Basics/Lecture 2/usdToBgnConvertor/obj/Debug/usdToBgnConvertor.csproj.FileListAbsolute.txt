@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\obj\Debug\usdToBgnConvertor.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\obj\Debug\usdToBgnConvertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\obj\Debug\usdToBgnConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\bin\Debug\usdToBgnConvertor.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\bin\Debug\usdToBgnConvertor.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\bin\Debug\usdToBgnConvertor.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\obj\Debug\usdToBgnConvertor.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\usdToBgnConvertor\obj\Debug\usdToBgnConvertor.pdb
