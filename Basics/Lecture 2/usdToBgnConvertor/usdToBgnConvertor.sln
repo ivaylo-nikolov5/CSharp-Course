@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodDelivery", "..\foodDeli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basketballEquipment", "..\basketballEquipment\basketballEquipment.csproj", "{725CA6B1-55DC-4C79-8843-77F77F1B2485}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fishTank", "..\fishTank\fishTank.csproj", "{3B14C251-5351-422D-948A-5A6DD7D0DC55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{725CA6B1-55DC-4C79-8843-77F77F1B2485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{725CA6B1-55DC-4C79-8843-77F77F1B2485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{725CA6B1-55DC-4C79-8843-77F77F1B2485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B14C251-5351-422D-948A-5A6DD7D0DC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B14C251-5351-422D-948A-5A6DD7D0DC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B14C251-5351-422D-948A-5A6DD7D0DC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B14C251-5351-422D-948A-5A6DD7D0DC55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

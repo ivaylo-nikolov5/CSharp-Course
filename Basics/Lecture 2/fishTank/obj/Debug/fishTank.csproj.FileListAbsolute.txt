@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\bin\Debug\fishTank.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\bin\Debug\fishTank.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\bin\Debug\fishTank.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\obj\Debug\fishTank.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\obj\Debug\fishTank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\obj\Debug\fishTank.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\obj\Debug\fishTank.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 2\fishTank\obj\Debug\fishTank.pdb
