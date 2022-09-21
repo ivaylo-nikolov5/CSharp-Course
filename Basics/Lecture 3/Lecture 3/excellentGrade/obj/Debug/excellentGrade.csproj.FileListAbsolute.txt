@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\bin\Debug\excellentGrade.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\bin\Debug\excellentGrade.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\bin\Debug\excellentGrade.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\obj\Debug\excellentGrade.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\obj\Debug\excellentGrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\obj\Debug\excellentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\obj\Debug\excellentGrade.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\excellentGrade\obj\Debug\excellentGrade.pdb
