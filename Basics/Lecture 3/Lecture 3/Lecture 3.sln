@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gueessThePassword", "gueess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberHundredToTwoHundred", "numberHundredToTwoHundred\numberHundredToTwoHundred.csproj", "{180BE8E3-9B69-4070-B1CE-EEE5D65980A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speedInfo", "speedInfo\speedInfo.csproj", "{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{180BE8E3-9B69-4070-B1CE-EEE5D65980A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{180BE8E3-9B69-4070-B1CE-EEE5D65980A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{180BE8E3-9B69-4070-B1CE-EEE5D65980A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
