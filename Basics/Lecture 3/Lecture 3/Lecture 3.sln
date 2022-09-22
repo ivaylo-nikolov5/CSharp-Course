@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theGreaterNumber", "theGrea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenOrOdd", "evenOrOdd\evenOrOdd.csproj", "{C14D3128-5F08-4C25-8420-D6FA3F675E91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gueessThePassword", "gueessThePassword\gueessThePassword.csproj", "{CCBE21D6-094B-4A3D-B28E-F6F13BC3E16E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C14D3128-5F08-4C25-8420-D6FA3F675E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14D3128-5F08-4C25-8420-D6FA3F675E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14D3128-5F08-4C25-8420-D6FA3F675E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBE21D6-094B-4A3D-B28E-F6F13BC3E16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBE21D6-094B-4A3D-B28E-F6F13BC3E16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBE21D6-094B-4A3D-B28E-F6F13BC3E16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBE21D6-094B-4A3D-B28E-F6F13BC3E16E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
