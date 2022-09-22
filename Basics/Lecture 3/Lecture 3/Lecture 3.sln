@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberHundredToTwoHundred",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speedInfo", "speedInfo\speedInfo.csproj", "{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "areaOfFigures", "areaOfFigures\areaOfFigures.csproj", "{A752911D-9AD9-42AB-A19E-56463F0544CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C09245-CA96-4B0A-B7D0-73E4F74B2D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A752911D-9AD9-42AB-A19E-56463F0544CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A752911D-9AD9-42AB-A19E-56463F0544CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A752911D-9AD9-42AB-A19E-56463F0544CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A752911D-9AD9-42AB-A19E-56463F0544CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

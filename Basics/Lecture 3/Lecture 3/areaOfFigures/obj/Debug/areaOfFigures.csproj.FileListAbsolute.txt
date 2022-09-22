@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\bin\Debug\areaOfFigures.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\bin\Debug\areaOfFigures.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\bin\Debug\areaOfFigures.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\obj\Debug\areaOfFigures.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\obj\Debug\areaOfFigures.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\obj\Debug\areaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\obj\Debug\areaOfFigures.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\areaOfFigures\obj\Debug\areaOfFigures.pdb
