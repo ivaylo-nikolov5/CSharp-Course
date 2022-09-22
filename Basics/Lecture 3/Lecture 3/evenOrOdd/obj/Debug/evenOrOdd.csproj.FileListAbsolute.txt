@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\bin\Debug\evenOrOdd.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\bin\Debug\evenOrOdd.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\bin\Debug\evenOrOdd.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\obj\Debug\evenOrOdd.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\obj\Debug\evenOrOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\obj\Debug\evenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\obj\Debug\evenOrOdd.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 3\Lecture 3\evenOrOdd\obj\Debug\evenOrOdd.pdb

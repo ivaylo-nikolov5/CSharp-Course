@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excellentGrade", "excellent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theGreaterNumber", "theGreaterNumber\theGreaterNumber.csproj", "{3761EE9D-867F-4BD4-B1AB-D875310BFA67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenOrOdd", "evenOrOdd\evenOrOdd.csproj", "{C14D3128-5F08-4C25-8420-D6FA3F675E91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3761EE9D-867F-4BD4-B1AB-D875310BFA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3761EE9D-867F-4BD4-B1AB-D875310BFA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3761EE9D-867F-4BD4-B1AB-D875310BFA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14D3128-5F08-4C25-8420-D6FA3F675E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14D3128-5F08-4C25-8420-D6FA3F675E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14D3128-5F08-4C25-8420-D6FA3F675E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14D3128-5F08-4C25-8420-D6FA3F675E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
