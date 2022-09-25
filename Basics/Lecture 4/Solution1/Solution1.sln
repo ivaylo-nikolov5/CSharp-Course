@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "worldSwimmingRecord", "worl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shopping", "shopping\shopping.csproj", "{3620B736-CC6A-4D45-BD34-D12BFB6699DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lunchBreak", "lunchBreak\lunchBreak.csproj", "{82CCCDE7-35BB-481E-AAAF-CEFAD7CAF152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3620B736-CC6A-4D45-BD34-D12BFB6699DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3620B736-CC6A-4D45-BD34-D12BFB6699DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3620B736-CC6A-4D45-BD34-D12BFB6699DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CCCDE7-35BB-481E-AAAF-CEFAD7CAF152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CCCDE7-35BB-481E-AAAF-CEFAD7CAF152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CCCDE7-35BB-481E-AAAF-CEFAD7CAF152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CCCDE7-35BB-481E-AAAF-CEFAD7CAF152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\bin\Debug\lunchBreak.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\bin\Debug\lunchBreak.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\bin\Debug\lunchBreak.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\obj\Debug\lunchBreak.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\obj\Debug\lunchBreak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\obj\Debug\lunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\obj\Debug\lunchBreak.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\lunchBreak\obj\Debug\lunchBreak.pdb
