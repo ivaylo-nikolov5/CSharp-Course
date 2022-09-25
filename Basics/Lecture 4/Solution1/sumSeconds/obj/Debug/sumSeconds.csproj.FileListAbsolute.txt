@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\bin\Debug\sumSeconds.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\bin\Debug\sumSeconds.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\bin\Debug\sumSeconds.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\obj\Debug\sumSeconds.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\obj\Debug\sumSeconds.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\obj\Debug\sumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\obj\Debug\sumSeconds.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\sumSeconds\obj\Debug\sumSeconds.pdb
