@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bonusPoints", "bonusPoints\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timePlus15Mins", "timePlus15Mins\timePlus15Mins.csproj", "{69799A86-CC2E-42A3-BE5D-D9F72D471077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toyShop", "toyShop\toyShop.csproj", "{1F78E5F9-D54C-45D5-82E9-1917C3F59A2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{69799A86-CC2E-42A3-BE5D-D9F72D471077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69799A86-CC2E-42A3-BE5D-D9F72D471077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69799A86-CC2E-42A3-BE5D-D9F72D471077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F78E5F9-D54C-45D5-82E9-1917C3F59A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F78E5F9-D54C-45D5-82E9-1917C3F59A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F78E5F9-D54C-45D5-82E9-1917C3F59A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F78E5F9-D54C-45D5-82E9-1917C3F59A2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
