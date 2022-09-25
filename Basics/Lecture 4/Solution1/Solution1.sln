@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toyShop", "toyShop\toyShop.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "godzillaVsKong", "godzillaVsKong\godzillaVsKong.csproj", "{067EA2C5-B465-4E16-BD51-8178EA2E8F53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "worldSwimmingRecord", "worldSwimmingRecord\worldSwimmingRecord.csproj", "{48DBA8CB-478F-4528-ADB9-562094D27415}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{067EA2C5-B465-4E16-BD51-8178EA2E8F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067EA2C5-B465-4E16-BD51-8178EA2E8F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067EA2C5-B465-4E16-BD51-8178EA2E8F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DBA8CB-478F-4528-ADB9-562094D27415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DBA8CB-478F-4528-ADB9-562094D27415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DBA8CB-478F-4528-ADB9-562094D27415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DBA8CB-478F-4528-ADB9-562094D27415}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
