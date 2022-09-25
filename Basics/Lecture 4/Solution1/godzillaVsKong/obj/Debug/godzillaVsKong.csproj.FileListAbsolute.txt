@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\bin\Debug\godzillaVsKong.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\bin\Debug\godzillaVsKong.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\bin\Debug\godzillaVsKong.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\obj\Debug\godzillaVsKong.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\obj\Debug\godzillaVsKong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\obj\Debug\godzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\obj\Debug\godzillaVsKong.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\godzillaVsKong\obj\Debug\godzillaVsKong.pdb
