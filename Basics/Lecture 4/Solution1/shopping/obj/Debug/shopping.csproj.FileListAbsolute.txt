@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\bin\Debug\shopping.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\bin\Debug\shopping.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\bin\Debug\shopping.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\obj\Debug\shopping.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\obj\Debug\shopping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\obj\Debug\shopping.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\obj\Debug\shopping.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\shopping\obj\Debug\shopping.pdb
