@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\bin\Debug\bonusPoints.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\bin\Debug\bonusPoints.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\bin\Debug\bonusPoints.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\obj\Debug\bonusPoints.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\obj\Debug\bonusPoints.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\obj\Debug\bonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\obj\Debug\bonusPoints.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 4\Solution1\bonusPoints\obj\Debug\bonusPoints.pdb
