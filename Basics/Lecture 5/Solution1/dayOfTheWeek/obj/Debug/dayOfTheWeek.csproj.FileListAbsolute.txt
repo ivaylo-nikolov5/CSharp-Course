@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\bin\Debug\dayOfTheWeek.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\bin\Debug\dayOfTheWeek.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\bin\Debug\dayOfTheWeek.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\obj\Debug\dayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\obj\Debug\dayOfTheWeek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\obj\Debug\dayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\obj\Debug\dayOfTheWeek.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\dayOfTheWeek\obj\Debug\dayOfTheWeek.pdb
