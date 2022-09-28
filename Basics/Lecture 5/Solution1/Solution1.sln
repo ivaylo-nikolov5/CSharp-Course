@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classAnimal", "classAnimal\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personalTitles", "personalTitles\personalTitles.csproj", "{15B23470-FED7-4C45-AAEB-223707049F81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smallShop", "smallShop\smallShop.csproj", "{6687933D-FF74-46E8-AAB7-F9E1FCA55D89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{15B23470-FED7-4C45-AAEB-223707049F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B23470-FED7-4C45-AAEB-223707049F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B23470-FED7-4C45-AAEB-223707049F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6687933D-FF74-46E8-AAB7-F9E1FCA55D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6687933D-FF74-46E8-AAB7-F9E1FCA55D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6687933D-FF74-46E8-AAB7-F9E1FCA55D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6687933D-FF74-46E8-AAB7-F9E1FCA55D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

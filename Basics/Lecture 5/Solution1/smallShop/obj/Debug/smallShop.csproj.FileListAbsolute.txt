@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\bin\Debug\smallShop.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\bin\Debug\smallShop.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\bin\Debug\smallShop.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\obj\Debug\smallShop.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\obj\Debug\smallShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\obj\Debug\smallShop.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\obj\Debug\smallShop.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\smallShop\obj\Debug\smallShop.pdb

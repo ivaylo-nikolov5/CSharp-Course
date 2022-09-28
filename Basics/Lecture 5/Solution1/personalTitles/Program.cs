@@ -24,7 +24,7 @@ namespace personalTitles
                     Console.WriteLine("Master");
                 }
             }
-            else
+            else if (gender == "f")
             {
                 if (age >= 16)
                 {
