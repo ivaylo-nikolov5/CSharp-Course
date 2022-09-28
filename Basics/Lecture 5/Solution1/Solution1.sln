@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workingDayOrWeekend", "work
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classAnimal", "classAnimal\classAnimal.csproj", "{72E9A32B-0597-4A85-A2B4-E23A7EF7F714}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personalTitles", "personalTitles\personalTitles.csproj", "{15B23470-FED7-4C45-AAEB-223707049F81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{72E9A32B-0597-4A85-A2B4-E23A7EF7F714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72E9A32B-0597-4A85-A2B4-E23A7EF7F714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72E9A32B-0597-4A85-A2B4-E23A7EF7F714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B23470-FED7-4C45-AAEB-223707049F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B23470-FED7-4C45-AAEB-223707049F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B23470-FED7-4C45-AAEB-223707049F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B23470-FED7-4C45-AAEB-223707049F81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
