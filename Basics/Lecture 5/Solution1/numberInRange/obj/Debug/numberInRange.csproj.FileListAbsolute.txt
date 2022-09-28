@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\bin\Debug\numberInRange.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\bin\Debug\numberInRange.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\bin\Debug\numberInRange.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\obj\Debug\numberInRange.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\obj\Debug\numberInRange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\obj\Debug\numberInRange.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\obj\Debug\numberInRange.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\numberInRange\obj\Debug\numberInRange.pdb
