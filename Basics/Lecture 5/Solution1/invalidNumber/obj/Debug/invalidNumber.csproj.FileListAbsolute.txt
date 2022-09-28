@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\bin\Debug\invalidNumber.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\bin\Debug\invalidNumber.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\bin\Debug\invalidNumber.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\obj\Debug\invalidNumber.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\obj\Debug\invalidNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\obj\Debug\invalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\obj\Debug\invalidNumber.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\invalidNumber\obj\Debug\invalidNumber.pdb
