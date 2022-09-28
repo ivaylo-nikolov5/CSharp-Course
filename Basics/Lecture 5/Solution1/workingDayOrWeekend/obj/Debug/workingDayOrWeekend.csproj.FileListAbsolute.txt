@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\bin\Debug\workingDayOrWeekend.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\bin\Debug\workingDayOrWeekend.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\bin\Debug\workingDayOrWeekend.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\obj\Debug\workingDayOrWeekend.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\obj\Debug\workingDayOrWeekend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\obj\Debug\workingDayOrWeekend.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\obj\Debug\workingDayOrWeekend.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\workingDayOrWeekend\obj\Debug\workingDayOrWeekend.pdb
