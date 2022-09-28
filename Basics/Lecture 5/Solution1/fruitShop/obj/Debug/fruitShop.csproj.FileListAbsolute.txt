@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\bin\Debug\fruitShop.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\bin\Debug\fruitShop.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\bin\Debug\fruitShop.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\obj\Debug\fruitShop.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\obj\Debug\fruitShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\obj\Debug\fruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\obj\Debug\fruitShop.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 5\Solution1\fruitShop\obj\Debug\fruitShop.pdb
