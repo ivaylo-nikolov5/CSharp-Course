@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\bin\Debug\summerClothing.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\bin\Debug\summerClothing.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\bin\Debug\summerClothing.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\obj\Debug\summerClothing.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\obj\Debug\summerClothing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\obj\Debug\summerClothing.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\obj\Debug\summerClothing.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\summerClothing\obj\Debug\summerClothing.pdb

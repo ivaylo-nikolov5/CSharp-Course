@@ -31,7 +31,7 @@ namespace cinema
 
             double result = ticketPrice * rows * cols;
 
-            Console.WriteLine($"{result:f2}");
+            Console.WriteLine($"{result:f2} leva");
         }
     }
 }
