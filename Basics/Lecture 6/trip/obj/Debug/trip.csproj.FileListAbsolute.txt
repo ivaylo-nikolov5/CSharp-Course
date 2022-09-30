@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\bin\Debug\trip.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\bin\Debug\trip.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\bin\Debug\trip.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\obj\Debug\trip.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\obj\Debug\trip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\obj\Debug\trip.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\obj\Debug\trip.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\trip\obj\Debug\trip.pdb
