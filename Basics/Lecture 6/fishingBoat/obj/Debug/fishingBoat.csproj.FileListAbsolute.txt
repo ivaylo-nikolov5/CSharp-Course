@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\obj\Debug\fishingBoat.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\obj\Debug\fishingBoat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\obj\Debug\fishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\bin\Debug\fishingBoat.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\bin\Debug\fishingBoat.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\bin\Debug\fishingBoat.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\obj\Debug\fishingBoat.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\fishingBoat\obj\Debug\fishingBoat.pdb

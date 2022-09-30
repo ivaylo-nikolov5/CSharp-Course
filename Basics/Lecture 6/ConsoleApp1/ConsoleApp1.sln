@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "summerClothing", "..\summer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newHome", "..\newHome\newHome.csproj", "{61BA62DF-0ED9-486A-9BD3-CD9D6471B71F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fishingBoat", "..\fishingBoat\fishingBoat.csproj", "{B9DD6D32-6477-4F75-88BD-1391F201B3A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{61BA62DF-0ED9-486A-9BD3-CD9D6471B71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61BA62DF-0ED9-486A-9BD3-CD9D6471B71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61BA62DF-0ED9-486A-9BD3-CD9D6471B71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DD6D32-6477-4F75-88BD-1391F201B3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DD6D32-6477-4F75-88BD-1391F201B3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DD6D32-6477-4F75-88BD-1391F201B3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DD6D32-6477-4F75-88BD-1391F201B3A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
