@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\bin\Debug\hotelRoom.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\bin\Debug\hotelRoom.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\bin\Debug\hotelRoom.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\obj\Debug\hotelRoom.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\obj\Debug\hotelRoom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\obj\Debug\hotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\obj\Debug\hotelRoom.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\hotelRoom\obj\Debug\hotelRoom.pdb
