@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\bin\Debug\skiTrip.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\bin\Debug\skiTrip.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\bin\Debug\skiTrip.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\obj\Debug\skiTrip.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\obj\Debug\skiTrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\obj\Debug\skiTrip.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\obj\Debug\skiTrip.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\skiTrip\obj\Debug\skiTrip.pdb
