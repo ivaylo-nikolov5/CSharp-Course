@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\bin\Debug\cinema.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\bin\Debug\cinema.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\bin\Debug\cinema.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\obj\Debug\cinema.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\obj\Debug\cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\obj\Debug\cinema.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\cinema\obj\Debug\cinema.pdb
