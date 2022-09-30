@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\bin\Debug\operationsBetweenNumbers.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\bin\Debug\operationsBetweenNumbers.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\bin\Debug\operationsBetweenNumbers.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\obj\Debug\operationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\obj\Debug\operationsBetweenNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\obj\Debug\operationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\obj\Debug\operationsBetweenNumbers.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\operationsBetweenNumbers\obj\Debug\operationsBetweenNumbers.pdb
