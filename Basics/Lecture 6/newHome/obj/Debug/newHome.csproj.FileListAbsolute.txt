@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\bin\Debug\newHome.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\bin\Debug\newHome.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\bin\Debug\newHome.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\obj\Debug\newHome.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\obj\Debug\newHome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\obj\Debug\newHome.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\obj\Debug\newHome.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 6\newHome\obj\Debug\newHome.pdb
