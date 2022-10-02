@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\bin\Debug\sumNums.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\bin\Debug\sumNums.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\bin\Debug\sumNums.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\obj\Debug\sumNums.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\obj\Debug\sumNums.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\obj\Debug\sumNums.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\obj\Debug\sumNums.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\sumNums\obj\Debug\sumNums.pdb
