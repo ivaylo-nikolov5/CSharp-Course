@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\bin\Debug\evenPowersOf2.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\bin\Debug\evenPowersOf2.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\bin\Debug\evenPowersOf2.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\obj\Debug\evenPowersOf2.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\obj\Debug\evenPowersOf2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\obj\Debug\evenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\obj\Debug\evenPowersOf2.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\evenPowersOf2\obj\Debug\evenPowersOf2.pdb
