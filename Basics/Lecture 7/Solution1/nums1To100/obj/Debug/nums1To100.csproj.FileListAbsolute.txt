@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\bin\Debug\nums1To100.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\bin\Debug\nums1To100.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\bin\Debug\nums1To100.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\obj\Debug\nums1To100.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\obj\Debug\nums1To100.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\obj\Debug\nums1To100.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\obj\Debug\nums1To100.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\nums1To100\obj\Debug\nums1To100.pdb
