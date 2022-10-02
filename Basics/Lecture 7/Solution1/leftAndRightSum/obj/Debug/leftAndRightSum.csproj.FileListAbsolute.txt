@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\bin\Debug\leftAndRightSum.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\bin\Debug\leftAndRightSum.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\bin\Debug\leftAndRightSum.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\obj\Debug\leftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\obj\Debug\leftAndRightSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\obj\Debug\leftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\obj\Debug\leftAndRightSum.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\leftAndRightSum\obj\Debug\leftAndRightSum.pdb
