@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\bin\Debug\vowelsSum.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\bin\Debug\vowelsSum.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\bin\Debug\vowelsSum.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\obj\Debug\vowelsSum.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\obj\Debug\vowelsSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\obj\Debug\vowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\obj\Debug\vowelsSum.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\vowelsSum\obj\Debug\vowelsSum.pdb
