@@ -1,0 +1,8 @@
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\bin\Debug\characterSequence.exe.config
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\bin\Debug\characterSequence.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\bin\Debug\characterSequence.pdb
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\obj\Debug\characterSequence.csproj.AssemblyReference.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\obj\Debug\characterSequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\obj\Debug\characterSequence.csproj.CoreCompileInputs.cache
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\obj\Debug\characterSequence.exe
+C:\Users\Bullet\Desktop\C#\CSharp-Course\Basics\Lecture 7\Solution1\characterSequence\obj\Debug\characterSequence.pdb

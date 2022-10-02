@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nums1ToNWithStep3", "nums1T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenPowersOf2", "evenPowersOf2\evenPowersOf2.csproj", "{38DB5053-5428-4B31-9AD7-868EAE846C8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "characterSequence", "characterSequence\characterSequence.csproj", "{DE4586B8-7059-4806-9C2A-7C04D55F3A56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{38DB5053-5428-4B31-9AD7-868EAE846C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38DB5053-5428-4B31-9AD7-868EAE846C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38DB5053-5428-4B31-9AD7-868EAE846C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4586B8-7059-4806-9C2A-7C04D55F3A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4586B8-7059-4806-9C2A-7C04D55F3A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4586B8-7059-4806-9C2A-7C04D55F3A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4586B8-7059-4806-9C2A-7C04D55F3A56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
